@@ -1,6 +1,6 @@
 'use strict';
 
-// let colors = ["green", "red", "rgba(133,122,200)", "#f15025","rgba(0, 93, 255, 1)"];
+
 let btn=document.getElementById('btn');
 let change=document.querySelector('#color');
 
